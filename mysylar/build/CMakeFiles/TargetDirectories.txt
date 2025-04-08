@@ -1,0 +1,4 @@
+/home/jhb/myGit/mysylar/build/CMakeFiles/rebuild_cache.dir
+/home/jhb/myGit/mysylar/build/CMakeFiles/edit_cache.dir
+/home/jhb/myGit/mysylar/build/CMakeFiles/test.dir
+/home/jhb/myGit/mysylar/build/CMakeFiles/mysylar.dir

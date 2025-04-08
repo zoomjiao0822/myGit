@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -rdynamic -o3 -g -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function  -shared -Wl,-soname,libmysylar.so -o ../lib/libmysylar.so CMakeFiles/mysylar.dir/server/log.cc.o 
